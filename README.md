@@ -1,16 +1,20 @@
 E-Commerce Wishlist Management Application
 
 Overview
+
 This Spring Boot application provides backend functionality for wishlist management in an e-commerce platform.
 
 Setup Instructions
+
 Step 1: Clone the Repository
 bash
 git clone https://github.com/your-username/eCommerce.git
 cd eCommerce
+
 Step 2: Build the Application
 bash
 ./gradlew build
+
 Step 3: Set Up Database
 The application uses an H2 database for simplicity during development. No additional setup is required.
 
@@ -26,6 +30,7 @@ bash
 This command will execute all the unit tests and provide information about their success or failure.
 
 Additional Considerations for Deployment
+
 Database Configuration: When deploying to production, configure the application to use a production-grade database (e.g., MySQL, PostgreSQL).
 
 Security Considerations: Ensure that appropriate security measures, such as HTTPS, are implemented. Modify security settings based on your production environment.
