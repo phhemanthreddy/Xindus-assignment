@@ -74,10 +74,3 @@ Follow the steps below to set up and run the application locally.
 
 - Deploy the application to your chosen server or cloud platform.
 
-## Author
-
-Your Name
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
